@@ -1,64 +1,22 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Utilitários para o Profile README</span>
-</h1>
+### Olá me chamo Ravel 👋
+####  Sou estudante de programação, no momento estou fazendo faculdade de ADS.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravel-silva&show_icons=true&theme=gruvbox)
+
+#Tecnologias que estou estudando atualmente.
+
+<div>
+  <img src="https://github.com/ravel-silva/ravel-silva/assets/134017770/499c9e94-4cbc-4f66-81f8-1529de40f654" alin="center" heigth="50" width="60">
+  <img src="https://github.com/ravel-silva/ravel-silva/assets/134017770/1609e8ba-17b5-477a-8c4c-f3d8b0de62ad" alin="center" heigth="50" width="60">
+  <img src="https://github.com/ravel-silva/ravel-silva/assets/134017770/8249d0d0-c2bb-4953-aca9-6a69a8eafcb9" alin="center" heigth="50" width="60">
+  <img src="https://github.com/ravel-silva/ravel-silva/assets/134017770/dfe3c361-fe92-41ac-9c65-e0dbd38856c1" alin="center" heigth="50" width="60">
+  <img src="https://github.com/ravel-silva/ravel-silva/assets/134017770/bcc37d78-a048-4bc6-ab80-7870789d886e" alin="center" width="51">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alin="center" heigth="100" width="60">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alin="center" heigth="100" width="60">          
+</div>
 
 
-## Índice
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Utilitário</th>
-      <th>Exemplos</th>
-      <th>Fonte</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Badges</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/badges/badges.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/badges/shields">Shields.io</a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Cards GitHub Stats</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-stats.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats by @anuraghazra</a>
-      </td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Cards GitHub Streak Stats</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Exemplos-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub Streak Stats by @DenverCoder1</a>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
 
 
-## Links Úteis
-- [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-- [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
-- [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
 
